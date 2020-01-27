@@ -1,6 +1,6 @@
 ## -목차-
 &nbsp;&nbsp;1.  [퍼미션 이미지](https://github.com/diqksrk/android-kotlin-practice2#1-permission)<br>
-&nbsp;&nbsp;2.  [쓰레드 이미지](https://github.com/diqksrk/android-kotlin-practice2#1-thread)<br>
+&nbsp;&nbsp;2.  [쓰레드 이미지](https://github.com/diqksrk/android-kotlin-practice2#2-thread)<br>
 <br>
 ## 1. 이미지.
 
